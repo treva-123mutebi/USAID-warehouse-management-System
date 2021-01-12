@@ -1,0 +1,6 @@
+[09-Oct-2020 09:50:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/engomash/storage.engomashop.com/dist/includes/dbcon.php on line 2
+[09-Oct-2020 17:50:27 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/engomash/storage.engomashop.com/index.php on line 49
+[09-Oct-2020 17:50:27 Asia/Manila] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/engomash/storage.engomashop.com/index.php on line 49
+[09-Oct-2020 09:57:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/engomash/storage.engomashop.com/dist/includes/dbcon.php on line 2
+[09-Oct-2020 17:57:56 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/engomash/storage.engomashop.com/index.php on line 49
+[09-Oct-2020 17:57:56 Asia/Manila] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/engomash/storage.engomashop.com/index.php on line 49
